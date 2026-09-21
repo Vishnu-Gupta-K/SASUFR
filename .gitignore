@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.pdb
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Local venv used in this project
+/gupta/
+
+# Environment files
+/backend/.env
+
+# Databases
+*.db
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/

@@ -1,0 +1,4 @@
+
+Command to download 3.11 Version:
+
+winget install --id Python.Python.3.11 -e
