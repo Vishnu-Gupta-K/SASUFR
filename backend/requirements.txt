@@ -1,7 +1,7 @@
-fastapi
 uvicorn
 pydantic
 motor
+gunicorn==21.2.0
 pymongo
 passlib[bcrypt]
 bcrypt==3.2.2
